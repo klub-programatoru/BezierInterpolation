@@ -1,3 +1,4 @@
+# data accessed from https://www.wsj.com/market-data/quotes/fx/GBPUSD/historical-prices
 1/26/2021	1.3735
 1/27/2021	1.3692
 1/28/2021	1.3729
